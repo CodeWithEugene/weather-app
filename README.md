@@ -1,4 +1,4 @@
-# Weather App README 🌦️  
+# Weather App🌦️  
 
 ## 🌐 Live Demo 🌍  
 [Check out the live app here](https://eugene-weather-app.vercel.app/)  
